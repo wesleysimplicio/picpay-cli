@@ -1,4 +1,4 @@
-![picpay-cli — visão geral do projeto](https://v3b.fal.media/files/b/0a9b9c65/sSSlllp9xn770Rp_MjNIN_IACgKlj9.png)
+![picpay-cli — hero com identidade da empresa e integrações com agentes](https://d2p7pg.cachecloud.net/output/df5ae27c-b686-4986-b495-0169d72d9e4a-u1_35f7d394-7a6c-4991-8279-fbcb077a29cb.jpeg)
 
 # picpay-cli 🏦
 
